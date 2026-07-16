@@ -6,7 +6,7 @@
 <a href="mailto:kartik.kumar.cse.be@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://leetcode.com/u/kartik12345k/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2500&pause=800&color=00C9FF&center=true&vCenter=true&width=800&lines=Software+Engineer+%40+HashedIn+by+Deloitte;Building+with+LangChain+%2C+LangGraph+%26+FastAPI;650%2B+LeetCode+%7C+TCS+CodeVita+Rank+6%2C248;Actively+exploring+SDE+roles+at+top+product+companies" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2500&pause=800&color=00C9FF&center=true&vCenter=true&width=800&lines=Software+Engineer+%40+HashedIn+by+Deloitte;Backend+Systems+%2B+Applied+GenAI+(LangChain%2C+LangGraph%2C+FastAPI);650%2B+LeetCode+%7C+TCS+CodeVita+Rank+6%2C248%2F500K%2B;Actively+exploring+SDE+roles+at+top+product+companies" />
 
 <img src="https://komarev.com/ghpvc/?username=kartik99kumar1&label=Profile%20Views&color=00c9ff&style=for-the-badge" />
 
@@ -18,10 +18,11 @@
 
 - 🎓 B.E. Computer Science, Cambridge Institute of Technology, Bangalore — **CGPA 9.01/10** (2022–2026)
 - 💼 Software Engineer 1 @ **HashedIn by Deloitte**, converted from internship via PPO
-- 🤖 Building applied GenAI systems — **LLMs, RAG pipelines, multi-agent orchestration** with LangChain, LangGraph, MCP, FastAPI
 - 🏗️ Backend engineering across **Java/Spring Boot** and **Python/FastAPI**, with PostgreSQL, JWT, REST API design
+- 🤖 Applied GenAI systems — **LLMs, RAG pipelines, multi-agent orchestration** with LangChain, LangGraph, MCP
 - 🧩 **650+ DSA problems** solved on LeetCode · 20 badges · 250+ day streak
 - 🏆 Global rank **6,248 / 500,000+** in TCS CodeVita Season XII
+- 🥇 **Academic Excellence Award** (4th semester) — 2 subject-topper awards for scoring 85%+
 - 🎤 Ran GDSC workshops teaching C/C++, Java, Python, DSA & GenAI fundamentals to large student cohorts
 - 📍 Based in Bangalore, India
 
@@ -60,34 +61,13 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kartik99kumar1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kartik99kumar1&theme=tokyonight&hide_border=true&background=0d1117" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartik99kumar1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165"/>
-
-</div>
-
----
-
-### 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=kartik99kumar1&theme=onedark&no-frame=true&row=1&column=6&margin-w=15" />
-</div>
-
----
-
 ### 🐍 Contribution Snake
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/kartik99kumar1/kartik99kumar1/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
-> This animation is auto-generated daily — see the setup step below.
+> Auto-generated daily via GitHub Actions — self-hosted, so it won't break like the stats/trophy widgets did.
 
 <div align="center">
 <img src="https://capsule-render.com/api?type=waving&color=0:0f2027,50:2c5364,100:00c9ff&height=100&section=footer"/>
