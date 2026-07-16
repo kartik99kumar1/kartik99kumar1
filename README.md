@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.com/api?type=waving&color=0:0f2027,50:2c5364,100:00c9ff&height=220&section=header&text=Kartik%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20GenAI%20%26%20Backend%20Systems&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9ff&height=220&section=header&text=Kartik%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20GenAI%20plus%20Backend%20Systems&descAlignY=55&descSize=20" width="100%"/>
 
 <a href="https://linkedin.com/in/kartik-kumar-563307282/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:kartik.kumar.cse.be@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -70,5 +70,5 @@
 > Auto-generated daily via GitHub Actions — self-hosted, so it won't break like the stats/trophy widgets did.
 
 <div align="center">
-<img src="https://capsule-render.com/api?type=waving&color=0:0f2027,50:2c5364,100:00c9ff&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9ff&height=100&section=footer"/>
 </div>
