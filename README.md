@@ -4,7 +4,7 @@
 
 <a href="https://linkedin.com/in/kartik-kumar-563307282/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:kartik.kumar.cse.be@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://leetcode.com/YOUR_LEETCODE_HANDLE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://leetcode.com/u/kartik12345k/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2500&pause=800&color=00C9FF&center=true&vCenter=true&width=800&lines=Software+Engineer+%40+HashedIn+by+Deloitte;Building+with+LangChain+%2C+LangGraph+%26+FastAPI;650%2B+LeetCode+%7C+TCS+CodeVita+Rank+6%2C248;Actively+exploring+SDE+roles+at+top+product+companies" />
 
@@ -12,7 +12,7 @@
 
 </div>
 
-<img src="https://capsule-render.com/api?type=rect&color=0:0f2027,100:00c9ff&height=3&width=100%" width="100%"/>
+---
 
 ### 🧭 About Me
 
@@ -25,7 +25,7 @@
 - 🎤 Ran GDSC workshops teaching C/C++, Java, Python, DSA & GenAI fundamentals to large student cohorts
 - 📍 Based in Bangalore, India
 
-<img src="https://capsule-render.com/api?type=rect&color=0:0f2027,100:00c9ff&height=3&width=100%" width="100%"/>
+---
 
 ### 💼 Experience
 
@@ -42,13 +42,13 @@
                           92% visual quality (PSNR 32 dB)
 ```
 
-<img src="https://capsule-render.com/api?type=rect&color=0:0f2027,100:00c9ff&height=3&width=100%" width="100%"/>
+---
 
 ### 🛠️ Tech Stack
 
 <img src="https://skillicons.dev/icons?i=java,python,cpp,spring,fastapi,postgres,git,github,docker,html,css&theme=dark" />
 
-<img src="https://capsule-render.com/api?type=rect&color=0:0f2027,100:00c9ff&height=3&width=100%" width="100%"/>
+---
 
 ### 🚀 Featured Projects
 
@@ -58,7 +58,7 @@
 | **HomeSolutions — On-Demand Home Services Platform** | Java · Spring Boot · JWT · PostgreSQL · 25+ REST APIs across 3 role-based workflows (Customer/Expert/Admin) |
 | **[NLP Project Sem 7](https://github.com/kartik99kumar1/NLP_Project_SEM_7_2025)** | NLP coursework project |
 
-<img src="https://capsule-render.com/api?type=rect&color=0:0f2027,100:00c9ff&height=3&width=100%" width="100%"/>
+---
 
 ### 📊 GitHub Stats
 
@@ -71,7 +71,7 @@
 
 </div>
 
-<img src="https://capsule-render.com/api?type=rect&color=0:0f2027,100:00c9ff&height=3&width=100%" width="100%"/>
+---
 
 ### 🏆 Trophies
 
@@ -79,7 +79,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=kartik99kumar1&theme=onedark&no-frame=true&row=1&column=6&margin-w=15" />
 </div>
 
-<img src="https://capsule-render.com/api?type=rect&color=0:0f2027,100:00c9ff&height=3&width=100%" width="100%"/>
+---
 
 ### 🐍 Contribution Snake
 
